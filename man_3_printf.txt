@@ -60,7 +60,7 @@ To print the day of the year, where weekday and month are pointers to strings an
 
 #include "main.h"
 
-_printf("%s, %s %d, %d\\n", weekday, month, day, year);
+_printf("%s, %s %d, %d\\n", Monday, October, 17, 2022);
 .SH SEE ALSO
 .I printf(3)
 .SH BUGS
